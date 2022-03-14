@@ -159,7 +159,7 @@ const Container = styled.div `
   border:1px solid #ffffff;
   font-size: 16px;
   cursor: pointer;
-  border-radius: 5px;
+  border-radius: 2px;
 }
 
 .login-page .box .left .register-btn:focus,
@@ -221,7 +221,7 @@ const Container = styled.div `
 	height: 40px;
 	background-color: #0078D4;
 	border:none;
-	border-radius: 5px;
+	border-radius: 2px;
 	color:#ffffff;
 	margin-top:10px;
 	font-size: 16px;
